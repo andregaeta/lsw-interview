@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40c51c2a394dfa7469272fdde598fddc, type: 3}
+  m_Name: Magicians Hat
+  m_EditorClassIdentifier: 
+  m_ItemName: Magician's Hat
+  m_Icon: {fileID: 21300000, guid: dbab13b3f5f06a94e9e101c7dd86f9a3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fbca4f962c71e6a4d84e361102445b21, type: 3}
